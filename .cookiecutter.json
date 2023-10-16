@@ -1,0 +1,13 @@
+{
+  "_checkout": null,
+  "_output_dir": "C:\\Users\\joshu",
+  "_repo_dir": "C:\\Users\\joshu\\.cookiecutters\\cookiecutter-homeassistant-custom-component",
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "UKTrains",
+  "domain_name": "uk_trains",
+  "friendly_name": "UK Trains",
+  "github_user": "josh-justjosh",
+  "project_name": "uk-trains",
+  "test_suite": "yes",
+  "version": "0.0.0"
+}

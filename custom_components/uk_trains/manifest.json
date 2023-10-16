@@ -1,0 +1,10 @@
+{
+  "domain": "uk_trains",
+  "name": "UK Trains",
+  "documentation": "https://github.com/josh-justjosh/uk-trains",
+  "issue_tracker": "https://github.com/josh-justjosh/uk-trains/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@josh-justjosh"],
+  "requirements": []
+}
