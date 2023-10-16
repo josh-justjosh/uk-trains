@@ -4,7 +4,7 @@
 [![GitHub Activity][commits-shield]][commits]
 [![License][license-shield]](LICENSE)
 
-<!--  [![pre-commit][pre-commit-shield]][pre-commit] -->
+[![pre-commit][pre-commit-shield]][pre-commit]
 [![Black][black-shield]][black]
 
 [![hacs][hacsbadge]][hacs]

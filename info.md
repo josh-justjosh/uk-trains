@@ -3,10 +3,10 @@
 [![License][license-shield]][license]
 
 [![hacs][hacsbadge]][hacs]
-[![Project Maintenance][maintenance-shield]][user_profile]
+<!-- [![Project Maintenance][maintenance-shield]][user_profile] -->
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-[![Discord][discord-shield]][discord]
+<!-- [![Discord][discord-shield]][discord] -->
 [![Community Forum][forum-shield]][forum]
 
 **This component will set up the following platforms.**
@@ -16,8 +16,6 @@
 | `binary_sensor` | Show something `True` or `False`.   |
 | `sensor`        | Show info from API.                 |
 | `switch`        | Switch something `True` or `False`. |
-
-![example][exampleimg]
 
 {% if not installed %}
 
