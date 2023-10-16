@@ -4,18 +4,15 @@
 [![GitHub Activity][commits-shield]][commits]
 [![License][license-shield]](LICENSE)
 
-[![pre-commit][pre-commit-shield]][pre-commit]
+<!--  [![pre-commit][pre-commit-shield]][pre-commit] -->
 [![Black][black-shield]][black]
 
 [![hacs][hacsbadge]][hacs]
-[![Project Maintenance][maintenance-shield]][user_profile]
-[![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
+<!-- [![Project Maintenance][maintenance-shield]][user_profile] -->
+<!-- [![BuyMeCoffee][buymecoffeebadge]][buymecoffee] -->
 
-[![Discord][discord-shield]][discord]
+<!-- [![Discord][discord-shield]][discord] -->
 [![Community Forum][forum-shield]][forum]
-
-**TO BE REMOVED: If you need help, as a developer, to use this custom component tempalte,
-please look at the [User Guide in the Cookiecutter documentation](https://cookiecutter-homeassistant-custom-component.readthedocs.io/en/stable/quickstart.html)**
 
 **This component will set up the following platforms.**
 
@@ -24,8 +21,6 @@ please look at the [User Guide in the Cookiecutter documentation](https://cookie
 | `binary_sensor` | Show something `True` or `False`.                                         |
 | `sensor`        | Show info from UK Trains API. |
 | `switch`        | Switch something `True` or `False`.                                       |
-
-![example][exampleimg]
 
 ## Installation
 
@@ -84,7 +79,6 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [in
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [discord]: https://discord.gg/Qa5fW2R
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg?style=for-the-badge
-[exampleimg]: example.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
 [license-shield]: https://img.shields.io/github/license/josh-justjosh/uk-trains.svg?style=for-the-badge
